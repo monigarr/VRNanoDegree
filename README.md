@@ -1,7 +1,7 @@
 # Udacity Virtual Reality Nano Degree 
-Course 2 Project
-date: Feb 5th 2017
-author: Monica Peters
+- Course 2 Project
+- date: Feb 5th 2017
+- author: Monica Peters
 
 # Private Github
 https://github.com/monigarr/VRNanoDegree
